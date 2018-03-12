@@ -5,7 +5,7 @@ just for testing
 ## Chapter 1
 ### Chapter 1.1
 
-- So I just clicked *Preview changes* and found this file should be a Markdown file.
+- So I just clicked *Preview changes* and found this file should be a Markdown file. And changes will be marked with a **green** bar on the left side.
 
 This is really great.
 But how to save this?
