@@ -1,3 +1,6 @@
+`wget https://git.io/vxPwm -O Python_Challenges_100+.ipynb`
+
+
 # test_rep
 just for testing
 * I'm not familiar with git now
